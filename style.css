@@ -1,0 +1,51 @@
+body {
+
+    background: rgb(121, 185, 121);
+    margin-right: 500px;
+    margin-left: 15px;
+    }
+    
+    header{
+    
+        margin-top: 10 px;
+    }
+    
+    h1 {
+            color: rgb(3, 119, 3);
+         font-family: fantasy;
+    }
+    
+    h2{
+      margin-left: 300px;
+        font-family: fantasy;
+    }
+    
+    p{
+        font-size: 24px;
+        margin-left: 100px;
+    }
+    .img_padrao {
+        margin-bottom: 20px;
+        width: 700px;
+        margin-left: 50px;
+    }
+    
+    .imagem_p {
+        width: 500px;
+        margin-left: 100px;
+    }
+    footer {
+        margin-bottom: 30px;
+    }
+    .img_pad {
+        margin-left: 130px;
+    }
+    
+    .logo1 { 
+        width: 50px;
+       
+    }
+    .logo2 { 
+        width: 30px;
+        margin-left:100px;
+    }
